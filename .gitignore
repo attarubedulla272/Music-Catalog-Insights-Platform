@@ -9,6 +9,7 @@ backend/target/
 backend/.mvn/
 backend/*.jar
 backend/*.war
+backend/data/
 
 # === IDE ===
 .idea/
